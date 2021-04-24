@@ -1,5 +1,6 @@
 # CRUD - Application - Node
 
+<<<<<<< HEAD
 A node CRUD application with express and mongodb.
 
 ![alt](https://res.cloudinary.com/anonystick/image/upload/v1587111157/build-project/Architecture-Customer-Information-System-Horizontal.jpg)
@@ -35,3 +36,9 @@ All the basics for you:
 
 
 
+=======
+ A node CRUD application with express and mongodb.
+
+## Step by step build the application:
+![alt](https://miro.medium.com/max/2000/0*8mOxqUcUh58KtEZK)
+>>>>>>> de179b95dc4d4164aca1a3c191d6547dd29b7592
