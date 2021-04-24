@@ -1,12 +1,6 @@
-#
+# CRUD - Application - Node
+
+ A node CRUD application with express and mongodb.
 
 ## Step by step build the application:
-
-    1. Init project 
-    2. Install packages
-    3. Build directory structure
-    4. HTTP Server 
-    5. Create file config.env including PORT and MONGO_URI 
-
-
-    
+![alt](https://miro.medium.com/max/2000/0*8mOxqUcUh58KtEZK)
